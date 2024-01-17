@@ -8,4 +8,5 @@ and can be used to made multi line comments
 
 """
 
-print(1234)
+print(12, 34, sep=" | ", end=" ") #SEP IS USED TO SEPARATE THE VALUES WITH A SPECIAL SYMBOL
+print(56, 78, sep=' ')
